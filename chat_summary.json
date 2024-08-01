@@ -48,5 +48,11 @@
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the navbar to be fixed at the top of the page or should it disappear/reappear based on scroll direction?\", \"option1\": \"Fixed at the top\", \"option2\": \"Disappear on scroll down, reappear on scroll up\"}, {\"question 2\": \"For the 'Integrations' NavLink, should it direct users to an internal section within the app or to an external page?\", \"option1\": \"Internal section within the app\", \"option2\": \"External page\"}], \"input_token_count\": 267, \"output_token_count\": 116, \"time_taken\": \"0:00:05.491509\"}",
         "timestamp": "01082024064217",
         "message_id": "guest01082024064209"
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a user authentication system for secure access\", \"checked\": false}, {\"feature\": \"Implement a real-time notifications system for new transactions\", \"checked\": true}, {\"feature\": \"Incorporate a dark/light mode toggle in the navbar\", \"checked\": false}, {\"feature\": \"Create a dynamic footer with links to Privacy Policy, Terms of Service, and FAQ\", \"checked\": true}, {\"feature\": \"Add a search bar in the navbar for quick transaction lookup\", \"checked\": false}, {\"feature\": \"Embed a help/support chatbot accessible through the navbar\", \"checked\": true}], \"input_token_count\": 221, \"output_token_count\": 126, \"time_taken\": \"0:00:07.114421\"}",
+        "timestamp": "01082024064219",
+        "message_id": "guest01082024064209"
     }
 ]
