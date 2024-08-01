@@ -4,5 +4,6 @@
     "project_description": "add an app to analyse new ethereum transactions",
     "creation_time": "2024-08-01 12:09:33.847526",
     "current_state": "The current state of the application has a navbar and a header",
-    "selected_starter_template_id": "landwind"
+    "selected_starter_template_id": "landwind",
+    "frontend_theme_prompt": "The image features a vibrant cosmic landscape with a predominant color scheme of pink, purple, and magenta hues, creating a dreamlike atmosphere against a starry background. The style combines surrealism with fantasy elements, depicting alien planets and mountainous terrains, which exude a mystical and otherworldly vibe."
 }
