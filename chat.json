@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the navbar to be fixed at the top of the page or should it disappear/reappear based on scroll direction?\", \"option1\": \"Fixed at the top\", \"option2\": \"Disappear on scroll down, reappear on scroll up\"}, {\"question 2\": \"For the 'Integrations' NavLink, should it direct users to an internal section within the app or to an external page?\", \"option1\": \"Internal section within the app\", \"option2\": \"External page\"}], \"input_token_count\": 267, \"output_token_count\": 116, \"time_taken\": \"0:00:05.491509\"}",
+        "message_id": "guest01082024064209",
+        "timestamp": "01082024064217",
+        "component_file_name": "simple_cta_component_1722494377",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Great! Adding a navbar with Home, Contact Us, and Integrations.",
         "message_id": "guest01082024064209",
