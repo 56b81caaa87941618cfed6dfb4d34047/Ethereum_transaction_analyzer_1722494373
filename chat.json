@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Real-time transaction tracking toggle\", \"checked\": true}, {\"feature\": \"Historical data analysis graph view\", \"checked\": false}, {\"feature\": \"Dark and Light mode switch\", \"checked\": true}, {\"feature\": \"Customizable alert settings for unusual activities\", \"checked\": false}, {\"feature\": \"Interactive map of Ethereum transaction origins\", \"checked\": true}, {\"feature\": \"User guide section for new users\", \"checked\": false}], \"input_token_count\": 215, \"output_token_count\": 96, \"time_taken\": \"0:00:06.891159\"}",
+        "message_id": "guest01082024064131",
+        "timestamp": "01082024064140",
+        "component_file_name": "simple_cta_component_1722494377",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Hello World' button to be positioned on the app's interface?\", \"option1\": \"In the center of the main screen\", \"option2\": \"At the bottom navigation bar\"}, {\"question 2\": \"What function should the 'Hello World' button perform when pressed?\", \"option1\": \"Display a popup message with 'Hello World'\", \"option2\": \"Navigate to a new screen with 'Hello World' greeting\"}], \"input_token_count\": 261, \"output_token_count\": 107, \"time_taken\": \"0:00:04.134933\"}",
         "message_id": "guest01082024064131",
